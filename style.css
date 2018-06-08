@@ -1,3 +1,17 @@
-#body {
-    background-color: red;
+body {
+    margin: auto;
+    width: 800px;
+    color: #6e6e6e;
+    background-color: #e9e8e8;
+    font-family: serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #292929;
 }
