@@ -15,3 +15,15 @@ h1 {
 h1, h2, h3 {
     color: #256fd1;
 }
+
+a {
+    color: #aa0f0f;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+img {
+    height: 120px;
+    display: block;
+    margin: 40px auto;
+}
